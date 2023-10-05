@@ -24,3 +24,4 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3041863730
 <sub>OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE</sub>
 <sub>SOFTWARE.</sub>
 
+https://github.com/M9-SD/A3_InterroGationExeCutionModUle/blob/main/LICENSE
