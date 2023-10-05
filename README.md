@@ -2,9 +2,9 @@
 Check [this project](https://github.com/M9-SD/A3_InterroGationExeCutionModUle) out on the [Arma 3 Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3041863730) for a demo video along with screenshots and a more detailed description:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3041863730
 
-[MIT License
+[MIT License](https://github.com/M9-SD/A3_InterroGationExeCutionModUle/blob/main/LICENSE)
 
-Copyright (c) 2023 M9-SD](https://github.com/M9-SD/A3_InterroGationExeCutionModUle/blob/main/LICENSE)
+[Copyright (c) 2023 M9-SD](https://github.com/M9-SD/A3_InterroGationExeCutionModUle/blob/main/LICENSE)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
